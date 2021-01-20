@@ -12,6 +12,7 @@ A collection of browser rendering performance resources
 - [Ilya Grigorik](https://twitter.com/igrigorik), [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) (Fluent 2013)
 - [Антон Хлыновский](https://twitter.com/subzey), [Композитные слои и отрисовка в браузере](https://www.youtube.com/watch?v=3rWwFN2ckh0)
 - Константин Крамлих, [О настоящем и будущем браузера](https://www.youtube.com/watch?v=6OLVN_gprow) - доклад на YaLoveFrontend, [слайды](https://yadi.sk/i/JH5CHqg91MUcmA)
+- [Life of a Pixel. Chrome University 2020](https://www.youtube.com/watch?v=PwYxv-43iM4), [2019](https://www.youtube.com/watch?v=m-J-tbAlFic), [2018](https://www.youtube.com/watch?v=zVwDTLOOSmY)
 
 ## Courses
 - [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
