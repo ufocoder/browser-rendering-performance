@@ -15,7 +15,7 @@ A collection of browser rendering performance resources
 - [Life of a Pixel. Chrome University 2020](https://www.youtube.com/watch?v=PwYxv-43iM4), [2019](https://www.youtube.com/watch?v=m-J-tbAlFic), [2018](https://www.youtube.com/watch?v=zVwDTLOOSmY)
 
 ## Sheets
-- [CSS Triggers][https://csstriggers.com/] - 
+- [CSS Triggers](https://csstriggers.com/)
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 
 ## Courses
