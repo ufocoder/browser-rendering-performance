@@ -20,7 +20,7 @@ A collection of browser rendering performance resources
 
 - [Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
 - [How Blink works](https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/)
-- [Threading and Tasks in Chrome](Threading and Tasks in Chrome)
+- [Threading and Tasks in Chrome](https://chromium.googlesource.com/chromium/src/+/master/docs/threading_and_tasks.md)
 - [Compositor (Touch) Hit Testing](https://www.chromium.org/developers/design-documents/compositor-hit-testing)
 
 ## Sheets
