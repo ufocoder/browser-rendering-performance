@@ -4,7 +4,7 @@ A collection of browser rendering performance resources
 - [HTML5. Web application APIs. Scripting. Event Loops. Processing model](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)
 
 ## Articles
-- [Web Fundamentals.Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+- [Web Fundamentals. Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - 2011
 - [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/) - расшифровка [доклада](https://www.youtube.com/watch?t=6217&v=Xg-oZp0EcYc) - 2019
 
@@ -14,10 +14,15 @@ A collection of browser rendering performance resources
 - Константин Крамлих, [О настоящем и будущем браузера](https://www.youtube.com/watch?v=6OLVN_gprow) - доклад на YaLoveFrontend, [слайды](https://yadi.sk/i/JH5CHqg91MUcmA)
 - [Life of a Pixel. Chrome University 2020](https://www.youtube.com/watch?v=PwYxv-43iM4), [2019](https://www.youtube.com/watch?v=m-J-tbAlFic), [2018](https://www.youtube.com/watch?v=zVwDTLOOSmY)
 
+## Sheets
+- [CSS Triggers][https://csstriggers.com/] - 
+- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+
 ## Courses
 - [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
 - [Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860)
 
 ## Tools
+
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Lighthouse Scoring Calculator](https://googlechrome.github.io/lighthouse/scorecalc/)
