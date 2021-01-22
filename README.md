@@ -9,7 +9,7 @@ A collection of browser rendering performance resources
 - [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/) - расшифровка [доклада](https://www.youtube.com/watch?t=6217&v=Xg-oZp0EcYc) - 2019
 
 ## Talks
-- [Faster HTML and CSS: Layout Engine Internals for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA) - old but useful :)
+- [Faster HTML and CSS: Layout Engine Internals for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA) - 2008 - very old but useful :)
 - [Ilya Grigorik](https://twitter.com/igrigorik), [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) (Fluent 2013)
 - [Антон Хлыновский](https://twitter.com/subzey), [Композитные слои и отрисовка в браузере](https://www.youtube.com/watch?v=3rWwFN2ckh0)
 - Константин Крамлих, [О настоящем и будущем браузера](https://www.youtube.com/watch?v=6OLVN_gprow) - доклад на YaLoveFrontend, [слайды](https://yadi.sk/i/JH5CHqg91MUcmA)
