@@ -22,6 +22,7 @@ A collection of browser rendering performance resources
 - [How Blink works](https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/)
 - [Threading and Tasks in Chrome](https://chromium.googlesource.com/chromium/src/+/master/docs/threading_and_tasks.md)
 - [Compositor (Touch) Hit Testing](https://www.chromium.org/developers/design-documents/compositor-hit-testing)
+- [GPU Accelerated Compositing in Chrome](https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome) - This paper has conditions that will trigger the creation of a new render layer
 
 ## Sheets
 
