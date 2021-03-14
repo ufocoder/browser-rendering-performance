@@ -16,6 +16,7 @@ A collection of browser rendering performance resources
 - [Life of a Pixel. Chrome University 2020](https://www.youtube.com/watch?v=PwYxv-43iM4), [2019](https://www.youtube.com/watch?v=m-J-tbAlFic), [2018](https://www.youtube.com/watch?v=zVwDTLOOSmY)
 - [USENIX Security '19 - Site Isolation: Process Separation for Web Sites within the Browser](https://www.youtube.com/watch?v=YvVwrcaxxbQ) - render process security
 - [Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015](https://www.youtube.com/watch?v=SmE4OwHztCc) - 2015
+- [Prashant Palikhe — From code to pixels in a Blink](https://www.youtube.com/watch?v=rVb0pfGFZFw) - 2019
 
 ## Chromium docs
 
