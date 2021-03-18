@@ -1,4 +1,4 @@
-A collection of browser rendering performance resources
+A collection of browser rendering and rendering performance resources
 
 ## Specifications
 - [HTML5. Web application APIs. Scripting. Event Loops. Processing model](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)
@@ -17,6 +17,7 @@ A collection of browser rendering performance resources
 - [USENIX Security '19 - Site Isolation: Process Separation for Web Sites within the Browser](https://www.youtube.com/watch?v=YvVwrcaxxbQ) - render process security
 - [Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015](https://www.youtube.com/watch?v=SmE4OwHztCc) - 2015
 - [Prashant Palikhe — From code to pixels in a Blink](https://www.youtube.com/watch?v=rVb0pfGFZFw) - 2019
+- [Compositing in Blink and WebKit](https://www.youtube.com/watch?v=Lpk1dYdo62o) - 2013
 
 ## Chromium docs
 
