@@ -19,6 +19,7 @@ A collection of browser rendering and rendering performance resources
 - [Prashant Palikhe — From code to pixels in a Blink](https://www.youtube.com/watch?v=rVb0pfGFZFw) - 2019
 - [Compositing in Blink and WebKit](https://www.youtube.com/watch?v=Lpk1dYdo62o) - 2013
 - [Denis Rechkunov: Progressive Rendering – how to make your app render sooner](https://www.youtube.com/watch?v=aRaQe9n1lPk) - JSConf Iceland 2016
+- [The main thread is overworked & underpaid](https://www.youtube.com/watch?v=7Rrv9qFMWNM) - Chrome Dev Summit 2019
 
 ## Chromium docs
 
