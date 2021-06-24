@@ -2,6 +2,7 @@ A collection of browser rendering and rendering performance resources
 
 ## Specifications
 - [HTML5. Web application APIs. Scripting. Event Loops. Processing model](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)
+- [HTML5. Parsing HTML documents. Overview of the parsing model](https://html.spec.whatwg.org/multipage/parsing.html#overview-of-the-parsing-model)
 
 ## Articles
 - [Web Fundamentals. Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
