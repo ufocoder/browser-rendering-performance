@@ -22,7 +22,8 @@ A collection of browser rendering and rendering performance resources
 - [Compositing in Blink and WebKit](https://www.youtube.com/watch?v=Lpk1dYdo62o) - 2013
 - [Denis Rechkunov: Progressive Rendering – how to make your app render sooner](https://www.youtube.com/watch?v=aRaQe9n1lPk) - JSConf Iceland 2016
 - [The main thread is overworked & underpaid](https://www.youtube.com/watch?v=7Rrv9qFMWNM) - Chrome Dev Summit 2019
-- [PiterJS #21 - Александр Канунников - AsyncDom](https://www.youtube.com/watch?v=qZaby7iOVts) - доклад на PiterJS #21
+- [Александр Канунников - AsyncDom](https://www.youtube.com/watch?v=qZaby7iOVts) - доклад на PiterJS #21
+- [Smooth Moves: Rendering at the Speed of Right](https://www.youtube.com/watch?v=AB9qSUhlxh8) - Chrome Dev Summit 2018
 
 ## Chromium docs
 
