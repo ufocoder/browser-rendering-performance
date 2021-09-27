@@ -9,6 +9,8 @@ A collection of browser rendering and rendering performance resources
 - [Web Fundamentals. Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - 2011
 - [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/) - расшифровка [доклада](https://www.youtube.com/watch?t=6217&v=Xg-oZp0EcYc) - 2019
+- [Overview of the RenderingNG architecture](https://developer.chrome.com/blog/renderingng-architecture/) - 2021
+- [Key data structures and their roles in RenderingNG](https://developer.chrome.com/blog/renderingng-data-structures/) - 2021
 
 ## Talks
 - [Faster HTML and CSS: Layout Engine Internals for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA) - 2008 - very old but useful :)
